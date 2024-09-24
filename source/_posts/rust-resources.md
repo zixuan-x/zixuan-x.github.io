@@ -7,24 +7,24 @@ draft: false
 ## Books
 
 - Getting Started
-    - [The Rust Programming Language](https://doc.rust-lang.org/book/): everything you need to get started with Rust
-    - [The Rust Reference](https://doc.rust-lang.org/stable/reference/): the primary reference for the Rust programming
+  - [The Rust Programming Language](https://doc.rust-lang.org/book/): everything you need to get started with Rust
+  - [The Rust Reference](https://doc.rust-lang.org/stable/reference/): the primary reference for the Rust programming
       language
-    - [Rust By Example](https://doc.rust-lang.org/rust-by-example/index.html): a collection of runnable examples that
+  - [Rust By Example](https://doc.rust-lang.org/rust-by-example/index.html): a collection of runnable examples that
       illustrate various Rust concepts and standard libraries
 - Intermediate
-    - [Rust for Rustaceans](https://learning.oreilly.com/library/view/rust-for-rustaceans/9781098129828/): for
+  - [Rust for Rustaceans](https://learning.oreilly.com/library/view/rust-for-rustaceans/9781098129828/): for
       developers who’ve mastered the basics, this book is the next step on your way to professional-level programming in
       Rust
-    - [The Cargo Book](https://doc.rust-lang.org/cargo/): Rust package manager
-    - [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/01_getting_started/01_chapter.html): a
+  - [The Cargo Book](https://doc.rust-lang.org/cargo/): Rust package manager
+  - [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/01_getting_started/01_chapter.html): a
       comprehensive, up-to-date guide to using Rust's async language features and libraries
-    - [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/): a set of recommendations on how to design and
+  - [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/): a set of recommendations on how to design and
       present APIs for the Rust programming language
-    - [The Rust Performance Book](https://nnethercote.github.io/perf-book/title-page.html): techniques that can improve
+  - [The Rust Performance Book](https://nnethercote.github.io/perf-book/title-page.html): techniques that can improve
       the performance—speed and memory usage—of Rust programs
 - Dark Magic
-    - [The Rustonomicon](https://doc.rust-lang.org/nomicon/intro.html): all the awful details that you need to
+  - [The Rustonomicon](https://doc.rust-lang.org/nomicon/intro.html): all the awful details that you need to
       understand when writing Unsafe Rust programs
 
 ## Cheatsheets
@@ -39,7 +39,7 @@ draft: false
   Rust
 - [Crust of Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa): where Jon Gjengset explains
   one core Rust concept at a time
-    - and more good stuff on
+  - and more good stuff on
       his [YouTube channel](https://www.youtube.com/c/JonGjengset)
 
 ## Posts
@@ -57,11 +57,11 @@ draft: false
 - Learn asynchronous programming and how to use Tokio by building a [mini redis](https://tokio.rs/tokio/tutorial)
 - [PNGme: An Intermediate Rust Project](https://picklenerd.github.io/pngme_book/)
 - Talent Plan
-    - [TP 201: Practical Networked Applications in Rust](https://github.com/pingcap/talent-plan/blob/master/courses/rust/README.md):
+  - [TP 201: Practical Networked Applications in Rust](https://github.com/pingcap/talent-plan/blob/master/courses/rust/README.md):
       A series of projects that incrementally develop a single Rust project from the ground up into a high-performance,
       networked, parallel and asynchronous key/value store. Along the way various real-world Rust development subject
       matter are explored and discussed.
-    - [TP 202: Distributed Systems in Rust](https://github.com/pingcap/talent-plan/blob/master/courses/dss/README.md):
+  - [TP 202: Distributed Systems in Rust](https://github.com/pingcap/talent-plan/blob/master/courses/dss/README.md):
       Adapted from the MIT 6.824 distributed systems coursework, this course focuses on implementing important
       distributed algorithms, including the Raft consensus algorithm, and the Percolator distributed transaction
       protocol.
@@ -74,4 +74,3 @@ draft: false
 - [Serde](https://serde.rs/): a framework for serializing and deserializing Rust data structures efficiently and
   generically
 - [clap](https://docs.rs/clap/latest/clap/): Command Line Argument Parser for Rust
-
