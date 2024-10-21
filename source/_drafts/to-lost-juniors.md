@@ -1,5 +1,5 @@
 ---
-title: To Lost Juniors
+title: Priotization Beats Efficiency. Action Solves Irresolution.
 tags:
 ---
 
